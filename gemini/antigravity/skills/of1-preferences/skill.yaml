@@ -1,0 +1,11 @@
+name: of1-preferences
+version: 1.0.0
+description: >
+  Onboarding guide and coding standards for OF1 CRM (Forwarding/Logistics).
+  Provides context on Java 21, Spring Boot, architecture, and coding conventions
+  derived from existing source code.
+triggers:
+  - match: "onboard to of1-crm"
+  - match: "explain of1-crm architecture"
+  - match: "coding conventions for of1"
+  - match: "create new service in of1"

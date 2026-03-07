@@ -22,7 +22,7 @@
 <!-- Enable for Backend/API projects -->
 
 ### Architecture
-- Follow existing OF1 patterns (Controller -> Service -> Repository).
+- Follow existing OF1 patterns (Service -> Repository).
 - Prefer **class-based OOP** with clear responsibilities over complex abstractions.
 - **DTOs/Mappers:** Keep them dumb and simple.
 

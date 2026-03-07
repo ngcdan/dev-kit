@@ -1,7 +1,7 @@
 # CLAUDE.md - Project Guidelines & Preferences
 
 > **Owner:** Đàn (User)
-> **Assistant:** Zoe/Claude
+> **Assistant:** Claude
 > **Context:** OF1 Project (Java/Spring + React/TypeScript)
 
 ## 1. Core Philosophy (Global)
